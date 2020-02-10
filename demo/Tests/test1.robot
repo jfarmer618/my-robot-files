@@ -4,7 +4,8 @@ Library    SeleniumLibrary
 
 *** Test Cases ***
 My First Test
-    [Tags]  first
+    [Tags]  hello
+    
     Log    Hello World!
 
 
