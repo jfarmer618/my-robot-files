@@ -22,6 +22,9 @@ My Second Test
     
 Another Test
     Log    Added another test
+
+My Third Test
+    Log     This is the third test
     
    
         
