@@ -8,9 +8,8 @@ My First Test
     Log    Hello World!
 
 
-My Second Test  
+My Second Test
     [Documentation]    Log in to Google and perform a search
-    [Tags]  second
     Log              This is my 2nd test
     Open Browser     https://google.com    chrome
     Set Browser Implicit Wait    5
