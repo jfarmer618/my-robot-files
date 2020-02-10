@@ -9,6 +9,7 @@ My First Test
 
 
 My Second Test
+    [Tags]  second
     [Documentation]    Log in to Google and perform a search
     Log              This is my 2nd test
     Open Browser     https://google.com    chrome
