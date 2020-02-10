@@ -17,5 +17,8 @@ My Second Test
     Sleep            5
     Close Browser
     
+Another Test
+    Log    Added another test
+    
    
         
