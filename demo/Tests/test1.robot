@@ -1,5 +1,5 @@
 *** Settings ***
-[Document]  Demo tests
+Documentation  Demo tests
 Library    SeleniumLibrary
 
 *** Test Cases ***
